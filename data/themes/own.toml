@@ -1,0 +1,18 @@
+# Theme metadata
+name = "Own"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#1A237E" # "#388E3C"
+
+# Menu
+menu_primary = "#00796B" # "#B0BEC5"
+menu_text = "#E0E0E0"
+menu_text_active = "#F5F5F5"
+menu_title = "#E0E0E0"
+
+# Home sections
+home_section_odd = "rgb(255, 255, 255)"
+home_section_even = "rgb(247, 247, 247)"
