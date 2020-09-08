@@ -24,7 +24,7 @@ hero_media = ""
   # gradient_end = "#78909C"
   
   # Background image.
-  image = "lake.jpg"  # Name of image in `static/img/`.
+  image = "lake2.jpg"  # Name of image in `static/img/`.
   image_darken = 0.25  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
   image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
   image_position = "center"  # Options include `left`, `center` (default), or `right`.
@@ -56,7 +56,7 @@ hero_media = ""
 
 **Welcome to my personal website**
 
-*Can machines learn like humans?*
+*Can we build forever-learning systems?*
 
 ---
 

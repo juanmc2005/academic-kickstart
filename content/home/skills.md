@@ -33,7 +33,7 @@ subtitle = ""
   icon = "language"
   icon_pack = "fas"
   name = "Languages"
-  description = "Spanish, French, English"  
+  description = "Spanish, French, English, German"  
   
 [[feature]]
   icon = "brain"

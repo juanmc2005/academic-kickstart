@@ -20,7 +20,7 @@ organizations:
   url: "https://www.limsi.fr/fr/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include continual self-supervised learning in neural networks applied to speech and natural language processing
+bio: PhD student working on Continual Representation Learning in neural networks for spoken and written language
 
 interests:
 - Neural Networks
@@ -31,9 +31,9 @@ interests:
 
 education:
   courses:
-  - course: PhD Student in Artificial Intelligence
+  - course: PhD Student in Continual Representation Learning
     institution: Université Paris-Saclay, CNRS, LIMSI
-    year: 2020
+    year: 2022
   - course: Msc in Software Engineering
     institution: Université de Paris
     year: 2019
@@ -76,6 +76,6 @@ user_groups:
 - Researchers
 ---
 
-I am a **PhD student** at Université Paris-Saclay working at LIMSI. My research focuses mainly on **continual self-supervised representation learning** in neural networks applied to speech and natural language processing. My ultimate goal is to design machine learning systems that can learn throughout their lifetimes like humans do.
+I am a **PhD student** at Université Paris-Saclay working at LIMSI. My research focuses on **Continual Representation Learning** in neural networks applied to spoken and written language. My goal is to design systems that can learn throughout their lifetimes like humans do.
 
-In my free time I enjoy learning foreign languages, reading good science fiction and sometimes playing the saxophone.
+In my free time I enjoy learning foreign languages, reading good science fiction and playing the saxophone.
